@@ -10,10 +10,9 @@ You're sections headers will be used to reference location of destination.
 - [TeamMember](#TeamMember)
 ---
 ### Features
--
--
--
--
+- Face shape is classified into five classes Heart, oblong, round and square using AI
+- We used ensemble learning to combine three models ,2 CNN models and an inception V3 model.
+
 
 
 ---
@@ -23,28 +22,40 @@ You're sections headers will be used to reference location of destination.
 ---
 ### Install
 ---
--You need install some Libraries
+-please follow the following few steps:
 
--First: For models
+- First: For models
 
 ```bash
 pip install tensorflow
 ```
--Second: For Land Marks
+- Second: For Land Marks
 ```bash
 pip install dlib
 ```
 ```bash
 pip install cv2
 ```
--Third: For GUI
+- Third: For GUI
 ```bash
 pip install PyQt5
 ```
+- Forth: 
+```bash
+Download all files that exists here in the same folder:
+[Link](https://drive.google.com/drive/folders/1rkPjxBNiZ9uxYdAH3nrm_uDfuIcNkETN)
+```
 
-#Note:
-You can run GUI by installing these libraries and Putting the weights files for three models in the same folder with the main then run main file
----
+- Fifth:
+```bash
+Run main.py file
+```
+- sixth:
+```bash
+Browse an image by Clicking on FILE >> OPEN, then chosse the photo.
+
+The predected label and chossen image with landmark drown on it will appear on the window
+```
 
 ### Tools
 ----
