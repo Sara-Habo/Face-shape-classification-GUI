@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destination.
 ---
 ### Demo
 ---
-![]()
+![](https://github.com/Sara-Habo/Face-shape-classification-GUI/blob/main/Demo.png)
 ---
 ### Library
 ---
