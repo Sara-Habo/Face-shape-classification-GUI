@@ -19,7 +19,10 @@ You're sections headers will be used to reference location of destination.
 ---
 ### Library
 ---
-
+```bash
+pip install dlib
+```
+---
 ### Tools
 ----
 - Python
