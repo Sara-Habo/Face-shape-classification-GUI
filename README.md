@@ -56,6 +56,7 @@ Browse an image by Clicking on FILE >> OPEN, then chosse the photo.
 
 The predected label and chossen image with landmark drown on it will appear on the window
 ```
+#### Please, note it is very impartant that all files in the link ubove are in the same folder when runing main.py
 
 ### Tools
 ----
