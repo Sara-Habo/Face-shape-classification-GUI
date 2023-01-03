@@ -6,7 +6,7 @@ You're sections headers will be used to reference location of destination.
 - [Features](#Features)
 - [Demo](#Demo)
 - [Tools](#Tools)
-- [Library](#Library)
+- [Install](#Install)
 - [TeamMember](#TeamMember)
 ---
 ### Features
@@ -17,12 +17,31 @@ You're sections headers will be used to reference location of destination.
 ---
 ![](https://github.com/Sara-Habo/Face-shape-classification-GUI/blob/main/Demo.png)
 ---
-### Library
+### Install
 ---
+-You need install some Libraries
+
+-First: For models
+
+```bash
+pip install tensorflow
+```
+-Second: For Land Marks
 ```bash
 pip install dlib
 ```
+```bash
+pip install cv2
+```
+-Third: For GUI
+```bash
+pip install PyQt5
+```
+
+#Note:
+You can run GUI by installing these libraries and Putting the weights files for three models in the same folder with the main then run main file
 ---
+
 ### Tools
 ----
 - Python
